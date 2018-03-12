@@ -1,5 +1,5 @@
 <?xml version="1.0" ?> 
-<project name="AntExample3" default="war">
+<project name="AntExample3" default="jar">
 	
 	<property file="build.properties" />
 
